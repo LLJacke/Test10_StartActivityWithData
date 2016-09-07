@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test10_StartActivityWithData</string>
+    <string name="send_data">Send data</string>
+</resources>
